@@ -1,4 +1,4 @@
 js_template
 ===========
 
-Template HTML5, CSS and JS of a webpage.
+Template for a HTML5, CSS, JS, jQuery webpage.
